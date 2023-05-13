@@ -1,10 +1,11 @@
 {
 	"$schema": "https://raw.githubusercontent.com/bennett-sh/schemas/main/hm/smf-mod.v2.schema.json",
-	"version": "0.1.0",
+	"version": "1.0.0",
 	"id": "BSh.KitchenDoorOpen",
 	"name": "Kitchen Door Open",
 	"description": "Opens the safehouse's secret kitchen door by default.",
 	"authors": ["BSh"],
 	"contentFolders": ["content"],
-	"frameworkVersion": "2.22.1"
+	"frameworkVersion": "2.25.0",
+	"updateCheck": "https://github.com/bennett-sh/hm-kitchen-door-open/releases/latest/download/updates.json"
 }
